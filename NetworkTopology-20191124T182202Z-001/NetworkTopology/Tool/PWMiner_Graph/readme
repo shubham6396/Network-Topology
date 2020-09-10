@@ -1,0 +1,15 @@
+The package includes codes for 
+- Read and write .grp file
+- Construct a graph instance
+- Visualize a graph
+
+The package includes the following directories:
+- src          (including source codes)
+- lib          (including dependent library)
+- data         (including the metabolic pathway graph .grp file)
+- vis          (being used for save the pathway topology graph image)
+- resources    (including a few of image files for GUI)
+
+Please first unzip the codes and launch it in your IDE tool.
+Then add libary perfuse.jar into your project.
+Test the package by running in your IDE tool, java apps.PWMiner.GraphVis.GraphVisHandler

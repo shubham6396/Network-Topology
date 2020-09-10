@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/tomcat5/common/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/htmlparser1_5/lib/checkstyle-all-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/htmlparser1_5/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/htmlparser1_5/lib/fit.jar"/>
+	<classpathentry kind="lib" path="C:/htmlparser1_5/lib/htmllexer.jar"/>
+	<classpathentry kind="lib" path="C:/htmlparser1_5/lib/junit.jar"/>
+	<classpathentry kind="lib" path="C:/htmlparser1_5/lib/thumbelina.jar"/>
+	<classpathentry kind="lib" path="C:/htmlparser1_5/lib/htmlparser.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
